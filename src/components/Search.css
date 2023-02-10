@@ -1,0 +1,18 @@
+.search-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.input-css{
+ height: 5vh;
+  font-size: 17px;
+  border: 1px solid grey;
+  cursor: pointer;
+  border-radius: 5px;
+  background: #f1f1f1;
+  margin: 50px;
+}

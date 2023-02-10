@@ -1,0 +1,73 @@
+.signup-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 400px;
+}
+.button-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.n{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.signup-container{
+  margin: 0px;
+}
+.input-container{
+  height: 22px;
+  margin: 10px;
+}
+.button-one{
+      background-color: #EA4C89;
+      border-radius: 8px;
+      border-style: none;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      cursor: pointer;
+      display: inline-block;
+      font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 500;
+      height: 35px;
+      line-height: 20px;
+      list-style: none;
+      margin: 5px;
+      outline: none;
+      padding: 10px 16px;
+      position: relative;
+      margin-bottom: 25px;
+      text-align: center;
+      text-decoration: none;
+      transition: color 100ms;
+      vertical-align: baseline;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+    
+    .button-one:hover,
+    .button-one:focus {
+      background-color: #F082AC;
+    }
+.in {
+  height: 25px;
+  width: 250px;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 10px;
+  padding: 10px;
+
+}
